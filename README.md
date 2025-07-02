@@ -1,5 +1,5 @@
 # Welcome to my Drug Discovery Model for Ovarian Cancer project! 
-Here, I used my knowledge in Python, machine learning, and online resources to 
+Here, I used my knowledge in Python, machine learning, and largescale databases to find an ML model that can screen and select the best drug compound to combat Ovarian Cancer! Here are the steps I took to accomplish this project:
 1. Collect data from a database
 2. Computed descriptors to be used to compare molecules to each other
 3. Clean and process the data to create a dataset
